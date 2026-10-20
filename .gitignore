@@ -1,0 +1,22 @@
+# Dependency directories (WSL local downloads)
+node_modules/
+.pnpm-store/
+
+# Next.js local build outputs and cache systems
+.next/
+out/
+.turbo/
+
+# Local environment secret variable tokens
+.env
+.env.local
+.env.production
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating system and WSL system logs
+.DS_Store
+Thumbs.db
+*.log
+.eslintcache

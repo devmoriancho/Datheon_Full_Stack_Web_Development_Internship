@@ -13,12 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vincent Parkolwa | Developer Portfolio",
-  description:
-    "Personal Developer Portfolio and Project Showcase for Datheon Internship.",
+  title: "Parkolwa.Vincent | Portfolio",
+  description: "Junior Frontend Developer and IT Infrastructure Specialist",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html
       lang="en"

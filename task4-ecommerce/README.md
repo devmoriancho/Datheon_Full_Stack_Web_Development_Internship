@@ -23,6 +23,12 @@ Welcome to the centralized engineering repository for my project-based curriculu
 2. `task3-weather-app/` - Asynchronous climate telemetry tracker.
 3. `task4-ecommerce/` - Multi-column storefront and checkout terminal.
 
+# - task1-portfolio/ (Live: https://datheon-internship-tasks.vercel.app/)
+
+# - task3-weather-app/ (Live: https://datheon-weather-vincent.vercel.app/ )
+
+# - task4-ecommerce/ (Live: https://datheon-ecommerce-vincent.vercel.app/ )
+
 ## 🚀 Execution & Deployment
 
 Navigate to any task directory, run `npm install`, and execute `npm run dev` to start the local server. Live demos are available via Vercel.

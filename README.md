@@ -20,11 +20,17 @@ The root folder structure isolates each submission block cleanly to ensure simpl
 - `task3-weather/` : Intermediate Level telemetry application utilizing asynchronous operations, native Fetch API hooks, and defensive client-side error handling arrays.
 - `task4-ecommerce/` : Intermediate Level e-commerce engine driving global state management via the React Context API with persistent cart calculation algorithms.
 
-# - task1-portfolio/ (Live: https://datheon-internship-tasks.vercel.app/)
+# - task1-portfolio/
 
-# - task3-weather-app/ (Live: https://datheon-weather-vincent.vercel.app/ )
+(Live: https://datheon-internship-tasks.vercel.app/)
 
-# - task4-ecommerce/ (Live: https://datheon-ecommerce-vincent.vercel.app/ )
+# - task3-weather-app/
+
+(Live: https://datheon-weather-vincent.vercel.app/ )
+
+# - task4-ecommerce/
+
+(Live: https://datheon-ecommerce-vincent.vercel.app/ )
 
 ## 🚀 Workspace Operational Verification
 
